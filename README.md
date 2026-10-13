@@ -84,6 +84,4 @@ This environment is operated by someone who believes that enterprise networking 
 
 ---
 
-That we can prove.
-
 Department of Overengineering™
