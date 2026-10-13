@@ -33,6 +33,17 @@ Making Home Assistant increasingly aware of everything happening in the house.
 
 Collecting network telemetry, monitoring infrastructure, integrating devices that were never supposed to cooperate, and occasionally convincing obsolete hardware to earn its electricity.
 
+Projects and assorted acts of technical irresponsibility:
+- Cisco network monitoring and device integration
+- Home Assistant dashboards and automations
+- Proxmox virtualization and backup infrastructure
+- Raspberry Pi infrastructure services
+- Enterprise Wi-Fi and device presence detection
+- PBX resurrection and integration
+- Industrial PLC-based appliance control
+- Local DNS, logging, monitoring, and network security
+- Making unsupported hardware do things its manufacturer never intended
+
 **Operating philosophy:**
 
 > If it works, automate it.
