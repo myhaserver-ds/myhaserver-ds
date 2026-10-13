@@ -20,10 +20,12 @@ Turns out, the rabbit hole has fiber connectivity.
 - 🌐 **Cisco networking** — Enterprise-grade infrastructure for an embarrassingly small number of humans.
 - 🖥️ **Proxmox** — Virtualizing things that probably didn't need virtualizing.
 - 🍓 **Raspberry Pi** — Small computer, disproportionately large responsibilities.
-- 📡 **Wi-Fi infrastructure** — Yes, the house has a wireless controller. No, I'm not sorry.
+- 📡 **Cisco Wireless Controller** — Yes, the house has a wireless controller. No, I'm not sorry.
+- ☎️ **PBX** — Because resurrecting a legacy business telephone system for a residential environment seemed perfectly reasonable.
 - 🔐 **Network security** — Trust is earned. VLANs are mandatory.
 - ⚙️ **Industrial automation** — Because sometimes an appliance needs a PLC.
 - 💾 **Backups** — If it doesn't exist in multiple places, it doesn't exist.
+- 📊 **Monitoring and telemetry** — If something fails at 3 AM, I want the logs to tell me exactly which bastard did it.
 
 ### 🔬 Current experiments
 
