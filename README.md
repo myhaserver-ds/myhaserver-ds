@@ -44,16 +44,21 @@ Projects and assorted acts of technical irresponsibility:
 - Local DNS, logging, monitoring, and network security
 - Making unsupported hardware do things its manufacturer never intended
 
-**Operating philosophy:**
+⚙️ Operating philosophy
 
-> If it works, automate it.
->
-> If it breaks, troubleshoot it.
->
-> If it's obsolete, find another use for it.
->
-> If it's simple, we're probably not finished overengineering it.
+If it works, automate it.
 
+If it breaks, troubleshoot it.
+
+If it's obsolete, find another use for it.
+
+If it communicates, put it on the network.
+
+If it's networked, monitor it.
+
+If it's important, back it up.
+
+If it's simple, we're probably not finished overengineering it.
 ### 🤖 AI collaboration protocol
 
 ```text
