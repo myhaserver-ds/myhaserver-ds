@@ -46,13 +46,19 @@ Projects and assorted acts of technical irresponsibility:
 
 ⚙️ Operating philosophy
 
-- If it works, automate it.
-- If it breaks, troubleshoot it.
-- If it's obsolete, find another use for it.
-- If it communicates, put it on the network.
-- If it's networked, monitor it.
-- If it's important, back it up.
-- If it's simple, we're probably not finished overengineering it.
+>If it works, automate it.
+>
+>If it breaks, troubleshoot it.
+>
+>If it's obsolete, find another use for it.
+>
+>If it communicates, put it on the network.
+>
+>If it's networked, monitor it.
+>
+>If it's important, back it up.
+>
+>If it's simple, we're probably not finished overengineering it.
   
 ### 🤖 AI collaboration protocol
 
@@ -78,6 +84,6 @@ This environment is operated by someone who believes that enterprise networking 
 
 ---
 
-**Department of Overengineering™**
+That we can prove.
 
-*Making simple shit complicated since approximately forever.*
+Department of Overengineering™
